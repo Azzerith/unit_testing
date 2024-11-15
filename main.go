@@ -1,5 +1,10 @@
 package main
 
+import (
+    "fmt"
+    "github.com/Azzerith/bank/bank"
+)
+
 func main(){
 	account := bank.Account{}
     
